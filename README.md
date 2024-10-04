@@ -33,11 +33,11 @@ pip3 install requests beautifulsoup4 pandas retrying openpyxl
 2. Run the Script
 - To execute the script, run the following command:
 ```
-python process.xlsx.py
+python scrape.py
 ```
 OR Python 3:
 ```
-python3 process.xlsx.py
+python3 scrape.py
 ```
 
 3. The results will be saved in an Excel file (result.xlsx). Here's an example output:
